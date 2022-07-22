@@ -21,3 +21,10 @@ Competition : https://www.kaggle.com/competitions/feedback-prize-effectiveness/
 ![Screenshot from 2022-07-22 16-18-09](https://user-images.githubusercontent.com/82469850/180424132-9e57f823-853f-4f84-8937-2c82b6b48050.png)
 
 
+## **To Run the Web app (Flask)** :
+* Step -1 : Run the notebook attached  above and download the trained model(./Model.h5).
+* Step -2 : Install the requirements using command (pip install -r requirements.txt) in the terminal.
+* Step -3 : Make sure you are in the working directory, Run the app.py file.
+* Step -4 : Below will be local host (http://127.0.0.1:5000/) link. open the link in the chrome/web browser and start enjoyting.
+* Step -5 : Upvote my work, If you like. Thank you.
+
