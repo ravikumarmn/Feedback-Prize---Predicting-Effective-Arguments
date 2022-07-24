@@ -1,6 +1,6 @@
 # Feedback-Prize---Predicting-Effective-Arguments
 
-My_Notebook : https://www.kaggle.com/code/ravikumarmn/feedback-effective-argument-prediction/
+My_Notebook : https://www.kaggle.com/code/ravikumarmn/feedback-prize-effectiveness-eda-bert-base/
 
 Competition : https://www.kaggle.com/competitions/feedback-prize-effectiveness/ 
 
